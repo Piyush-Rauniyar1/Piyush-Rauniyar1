@@ -38,22 +38,7 @@ Building production-ready web apps & experimenting with AI models. I focus on re
 
 ---
 
-## 📊 Live GitHub Cards
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyush-Rauniyar1&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
-</p>
 
----
-
-## 🔁 Contributions & Skyline
-- GitHub Skyline (3D contribution view):  
-  `https://skyline.github.com/Piyush-Rauniyar1`
-
-**If the skyline page shows no data:**  
-- Confirm your profile repo is named `Piyush-Rauniyar1`.  
-- Confirm you have public contributions (commits) on the default branch. Skyline reads your contribution history; if your contributions are private or no contributions exist, Skyline will appear empty.
-
----
 
 ## 📫 Contact
 - Email: piyushrauniyar16@gmail.com  
