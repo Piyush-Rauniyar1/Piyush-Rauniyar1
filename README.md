@@ -58,11 +58,21 @@ I'm a student focused on backend development, system design, and AI/ML. I enjoy 
 ---
 
 ## Resume / Contact
-- GitHub: https://github.com/Piyush-Rauniyar1  
-- Email: your.email@example.com (replace)  
-- LinkedIn: https://www.linkedin.com/in/your-linkedin/ (optional)
+
+<a href="https://piyushrauniyar.tech" target="_blank">
+  <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" width="22" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:piyushrauniyar16@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="22" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/piyush-rauniyar/" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="22" />
+</a>
 
 ---
+
 
 ## GitHub Stats
 ![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyush-Rauniyar1&show_icons=true&theme=radical)  
