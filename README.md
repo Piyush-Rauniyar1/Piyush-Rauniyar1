@@ -1,81 +1,26 @@
-# Hi — I'm Piyush 👋
-> Student • Backend, System Design & AI/ML (including Generative AI) enthusiast  
-> Learning how to design reliable systems and apply machine learning in practical backend services.
+# Piyush Rauniyar
 
-[![GitHub followers](https://img.shields.io/github/followers/Piyush-Rauniyar1?label=Follow&style=social)](https://github.com/Piyush-Rauniyar1)
-[![Profile Views](https://komarev.com/ghpvc/?username=Piyush-Rauniyar1&color=0e75b6)](https://github.com/Piyush-Rauniyar1)
+Software developer focused on building clean, reliable, and user-friendly digital experiences.
 
----
+## About
 
-## About me
-I'm a student focused on backend development, system design, and AI/ML. I enjoy learning how distributed systems are built and how models (classical ML and generative models) can be integrated into services and products.
+I enjoy turning ideas into practical products, improving systems through thoughtful engineering, and continuously learning new technologies. My work centers on writing maintainable code, solving real problems, and delivering projects with clarity and consistency.
 
-- Role: Student  
-- Focus: Backend engineering, system design, machine learning, and generative AI  
-- Current: Coursework, hands-on experiments, and architecture study  
-- Open to: mentorship, study-collabs, code reviews, and small contributions
+## What I Focus On
 
----
+- Building modern web applications and software solutions
+- Writing clean, scalable, and maintainable code
+- Learning new tools, frameworks, and development practices
+- Contributing to projects with a strong focus on quality and usability
 
-## What I'm learning
-- System design: scalability, load balancing, caching, consistency, partitioning, observability  
-- Backend: REST/GraphQL APIs, microservices, authentication, message queues, background jobs  
-- Databases: Postgres, MongoDB, indexing, query tuning, data modeling for ML  
-- DevOps / MLOps basics: Docker, CI/CD, model deployment, monitoring, reproducible pipelines  
-- Machine learning & Gen AI:
-  - ML fundamentals: supervised learning, evaluation, feature engineering  
-  - Deep learning basics, transfer learning  
-  - Transformers & modern NLP concepts  
-  - Generative AI / LLMs: prompt engineering, fine-tuning, safety & evaluation  
-  - Tools: PyTorch / TensorFlow, scikit-learn, Hugging Face, LangChain (exploring)
+## GitHub Activity
+
+![GitHub contribution snake](https://raw.githubusercontent.com/piyushrauniyar/piyushrauniyar/output/github-contribution-grid-snake.svg)
+
+## Connect
+
+- GitHub: [@piyushrauniyar](https://github.com/piyushrauniyar)
 
 ---
 
-## Tech Stack & Tools
-- Languages: Python, JavaScript/TypeScript  
-- Backend: Node.js, Express, FastAPI  
-- ML: Python, PyTorch, scikit-learn, Hugging Face transformers  
-- Databases: PostgreSQL, MongoDB, Redis  
-- DevOps/MLOps: Docker, GitHub Actions, basic cloud deployment  
-- Other: Git, REST, gRPC, Celery/RQ (background jobs)
-
----
-
-## How I work / contribute
-- I prefer small, iterative experiments and well-documented repos.  
-- I enjoy integrating models into APIs and exploring trade-offs (latency, cost, accuracy).  
-- I welcome feedback on architecture and model choices — open to pair debugging and design reviews.  
-- If you want my help: open an issue and tag me — I can help with docs, small features, or learning tasks.
-
----
-
-## Goals (short-term)
-- Build and deploy a small Gen-AI service (chat or Q&A) with proper API, tests, and monitoring  
-- Complete two backend + ML experiments with Dockerized deployment  
-- Study 10 system design topics and create one diagram per topic (caching, sharding, etc.)  
-- Contribute a documentation or tests PR to an open-source ML/backend repo
-
----
-
-## Resume / Contact
-
-<a href="https://piyushrauniyar.tech" target="_blank">
-  <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" width="22" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:piyushrauniyar16@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="22" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/piyush-rauniyar/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="22" />
-</a>
-
----
-
-
-## GitHub Stats
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyush-Rauniyar1&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Rauniyar1&layout=compact&theme=radical)
-
----
+Thank you for visiting my profile.
