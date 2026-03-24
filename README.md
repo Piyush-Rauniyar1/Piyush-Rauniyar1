@@ -15,11 +15,11 @@ I enjoy turning ideas into practical products, improving systems through thought
 
 ## GitHub Activity
 
-![GitHub contribution snake](https://raw.githubusercontent.com/piyushrauniyar/piyushrauniyar/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Piyush-Rauniyar1/Piyush-Rauniyar1/output/github-contribution-grid-snake.svg)
 
 ## Connect
 
-- GitHub: [@piyushrauniyar](https://github.com/piyushrauniyar)
+- GitHub: [@Piyush-Rauniyar1](https://github.com/Piyush-Rauniyar1)
 
 ---
 
