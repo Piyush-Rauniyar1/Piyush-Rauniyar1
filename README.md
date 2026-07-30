@@ -1,19 +1,33 @@
-# curly-sniffle
+# Piyush Rauniyar
 
-This repository previously contained a large auto-generated or placeholder README (embedded SVG/font data).
+```text
+        .-''''-.
+       /  .--.  \
+      /  /    \  \
+      |  |    |  |
+      |  |.-""-.|
+     ///`.::::.`\\\
+    ||| ::/  \:: ;|||
+    ||; ::\__/:: ;||
+     \\\'::....::'//
+      `'-::::::-'`
+```
 
-This file has been replaced with a concise, human-friendly README. Update the sections below with project-specific details.
+## Introduction
 
-## Quickstart
+Software engineer. Building reliable systems and shipping pragmatic code. Replace this bio with your own summary (role, interests, location).
 
-- Edit this README with an overview, installation, and usage instructions.
-- Check the repository for build/test commands (e.g., package.json, Makefile, or similar).
+- 🔭 Currently working on: [project or area]
+- 🌱 Learning: [tech or topic]
+- 💬 Ask me about: coding, system design, ML
 
-## Contributing
+---
 
-Contributions welcome via pull requests. Keep changes small and focused and include tests where appropriate.
+## Links
 
-## License
+- Website: https://your-website.example
+- LinkedIn: https://www.linkedin.com/in/your-profile
+- X/Twitter: https://twitter.com/your-handle
 
-Add a LICENSE file or replace this section with your chosen license.
+Feel free to edit this README to match your exact profile — update the name, bio, and links.
 
