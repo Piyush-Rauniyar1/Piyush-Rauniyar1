@@ -35,8 +35,9 @@ Click any mission to jump straight to the repo/issue page.
 
 Arcade avatar (stylized):
 
-```
-```
+<img src="assets/avatar.svg" alt="avatar" width="360"/>
+
+
 ::::::::::::...::::--=---------------------:......::::-::---
 :::::::::..::::---===---------------------------------------
 ::::....::--=======------==--=------------------------------
