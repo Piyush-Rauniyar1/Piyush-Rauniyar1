@@ -1,13 +1,8 @@
 # Piyush Rauniyar — Arcade Profile
 
-```
-   .----.  .----.  .----.  .----.
-  / .--. \/ .--. \/ .--. \/ .--. \
- | |  | || |  | || |  | || |  | |
- | |  | || |  | || |  | || |  | |
- | '  '--' '  '--' '  '--' '  '--'
-  '------------------------------'
-```
+<img src="assets/profile.jpg" alt="Piyush" width="220" style="border-radius:50%" />
+
+![Start GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 Welcome to the Arcade of Piyush — press Start to explore projects, achievements, and contributions.
 
@@ -17,9 +12,9 @@ Welcome to the Arcade of Piyush — press Start to explore projects, achievement
 
 ## Play (Choose your mode)
 
-- [Missions](#missions) — Showcases small, hands-on tasks (good for PRs)
-- [Gallery](#gallery) — Visuals: contributions & stats
-- [Leaderboard](#leaderboard) — Contribution heatmap & stats
+- [Missions](#missions) — small, hands-on tasks you can complete to earn badges
+- [Gallery](#gallery) — live contribution charts & top languages
+- [Leaderboard](#leaderboard) — activity and streaks
 
 ---
 
@@ -27,11 +22,14 @@ Welcome to the Arcade of Piyush — press Start to explore projects, achievement
 
 Complete these to level up!
 
-- [ ] Fix a bug in README
-- [ ] Open a small improvement PR
-- [ ] Add a README demo or GIF
+- [ ] Beginner: Fix a typo in a README (open an issue)
+  - Open: https://github.com/Piyush-Rauniyar1/Piyush-Rauniyar1/issues/new
+- [ ] Explorer: Submit a small improvement PR to any repo
+  - Repo: https://github.com/Piyush-Rauniyar1
+- [ ] Creator: Add a demo GIF or screenshot to a project
+  - Start here: https://github.com/Piyush-Rauniyar1/Piyush-Rauniyar1
 
-Tip: Click a mission title to jump to a repo or issue (link to repo or issue URLs).
+Click any mission to jump straight to the repo/issue page.
 
 ---
 
@@ -69,9 +67,14 @@ Full stats:
 
 ---
 
-## Credits
+## Badges & Achievements
 
-This README is an arcade-style interactive profile. Edit the mission list, links, or replace the ASCII avatar with an image if you prefer a photo. To show a photo, add it to the repo and replace the ASCII block with `![me](assets/profile.jpg)`.
+![Level Badge](https://img.shields.io/badge/Level-07-brightgreen?style=for-the-badge)
+![Tasks Completed](https://img.shields.io/badge/Tasks-3-blue?style=for-the-badge)
 
-Happy hacking — press Start and collect achievements!
+---
+
+## Customize
+
+Want different missions, a cropped image, or custom badges? Reply with what to change and I'll update it.
 
